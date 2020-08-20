@@ -22,6 +22,14 @@ Service made with friends.
 
 - https://slidelive.jp/ - SlideLive▶️
 
+## My Qiita posts
+
+https://qiita.com/Yuta_Fujiwara 👉 @Yuta_Fujiwara
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Yuta_Fujiwara/posts.svg)](http://qiita.com/Yuta_Fujiwara)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yuta_Fujiwara/contributions.svg)](http://qiita.com/Yuta_Fujiwara)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Yuta_Fujiwara/followers.svg)](http://qiita.com/Yuta_Fujiwara)
+
 ## Waiting for a message
 
 An engineer who is good at developing products from scratch. If you have such a job, please give us a message
