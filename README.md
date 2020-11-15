@@ -8,6 +8,7 @@ Freelance and CEO of OH MY GOD ,LLC. good at WebFrontend.
 - Vue.js and Nuxt.js
 - Firebase
 - PHP（Laravel）
+- Java
 
 ## In operation
 
@@ -17,6 +18,7 @@ Service made by one person.
 - https://the-bingo.jp/ - THE BINGO🎱
 - https://kansobun.jp/ - みんなの感想文 📖
 - https://tech-portfolio.org/block_clock/ - BLOCK CLOCK🍅
+- https://the-stamprally.com/ - ザ・スタンプラリー 🐾
 
 Service made with friends.
 
