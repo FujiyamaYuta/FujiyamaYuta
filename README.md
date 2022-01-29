@@ -1,7 +1,7 @@
 ## Hi there!!!
 
 I'm YutaFujiwara. I am a softwareEngineer in Tokyo.
-Freelance and CEO of OH MY GOD ,LLC. good at WebFrontend.
+Freelance and CEO of OH MY GOD Inc. good at WebFrontend.
 
 ## Special skill
 
@@ -10,15 +10,24 @@ Freelance and CEO of OH MY GOD ,LLC. good at WebFrontend.
 - PHP（Laravel）
 - Java
 
+## LINE API Expert
+
+I'm a LINE API Expert certified engineer.
+https://www.line-community.me/ja/apiexpert/detail/60adb082851f7443b473e70f
+
 ## In operation
 
 Service made by one person.
 
-- https://officeclock.work/ - OFFICE CLOCK⏰
 - https://the-bingo.jp/ - THE BINGO🎱
+- https://the-stamprally.com/ - ザ・スタンプラリー 🐾
+- https://the-chusenkai.com/ - ザ・抽選会 🐾
+- https://reserve-line.com/ - 地域振興券予約アプリ
+- https://officeclock.work/ - OFFICE CLOCK⏰
 - https://kansobun.jp/ - みんなの感想文 📖
 - https://tech-portfolio.org/block_clock/ - BLOCK CLOCK🍅
-- https://the-stamprally.com/ - ザ・スタンプラリー 🐾
+
+
 
 Service made with friends.
 
