@@ -12,7 +12,7 @@ Freelance and CEO of OH MY GOD Inc. good at WebFrontend.
 
 ## LINE API Expert
 
-I'm a LINE API Expert certified engineer.
+I'm a LINE API Expert certified engineer from 2021.
 
 https://www.line-community.me/ja/apiexpert/detail/60adb082851f7443b473e70f
 
