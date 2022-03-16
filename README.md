@@ -18,7 +18,7 @@ https://www.line-community.me/ja/apiexpert/detail/60adb082851f7443b473e70f
 
 ## In operation
 
-Service made by one person.
+Service made by OH MY GOD Inc.
 
 - https://the-bingo.jp/ - THE BINGO🎱
 - https://the-stamprally.com/ - ザ・スタンプラリー 🐾
