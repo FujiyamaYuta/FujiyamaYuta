@@ -23,6 +23,7 @@ Service made by one person.
 - https://the-bingo.jp/ - THE BINGO🎱
 - https://the-stamprally.com/ - ザ・スタンプラリー 🐾
 - https://the-chusenkai.com/ - ザ・抽選会 🐾
+- https://the-scratch.jp/ - ザ・スクラッチ 🐾
 - https://reserve-line.com/ - 地域振興券予約アプリ
 - https://officeclock.work/ - OFFICE CLOCK⏰
 - https://kansobun.jp/ - みんなの感想文 📖
