@@ -3,6 +3,9 @@
 I'm YutaFujiwara. I am a softwareEngineer in Tokyo.
 Freelance and CEO of OH MY GOD Inc. good at WebFrontend.
 
+- [https://ohmygod.jp](https://ohmygod.jp/)
+- [https://blog.ohmygod.jp/](https://blog.ohmygod.jp/)
+
 ## Special skill
 
 - Vue.js and Nuxt.js
