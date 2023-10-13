@@ -23,7 +23,8 @@ https://www.line-community.me/ja/apiexpert/detail/60adb082851f7443b473e70f
 
 Service made by OH MY GOD Inc.
 
-- https://the-bingo.jp/ - THE BINGO🎱
+- https://the-coupon.jp/ - ザ・クーポン 🎫
+- https://the-bingo.jp/ - THE BINGO 🎱
 - https://the-stamprally.com/ - ザ・スタンプラリー 🐾
 - https://the-chusenkai.com/ - ザ・抽選会 🐾
 - https://the-scratch.jp/ - ザ・スクラッチ 🐾
