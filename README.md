@@ -8,7 +8,7 @@ Freelance and CEO of OH MY GOD Inc. good at WebFrontend.
 
 ## Special skill
 
-- Vue.js and Nuxt.js
+- Nuxt and Vue
 - Firebase
 - PHP（Laravel）
 - Java
@@ -26,6 +26,7 @@ Service made by OH MY GOD Inc.
 - https://the-coupon.jp/ - ザ・クーポン 🎫
 - https://the-bingo.jp/ - THE BINGO 🎱
 - https://the-stamprally.com/ - ザ・スタンプラリー 🐾
+- https://the-receipt.com/ - レシートパシャパシャ 🐾
 - https://the-chusenkai.com/ - ザ・抽選会 🐾
 - https://the-scratch.jp/ - ザ・スクラッチ 🐾
 - https://reserve-line.com/ - 地域振興券予約アプリ
