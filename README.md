@@ -17,7 +17,7 @@ Freelance and CEO of OH MY GOD Inc. good at WebFrontend.
 
 I'm a LINE API Expert certified engineer from 2021.
 
-https://www.line-community.me/ja/apiexpert/detail/60adb082851f7443b473e70f
+https://developers.line.biz/ja/community/api-experts/jp-yuta-fujiwara/
 
 ## In operation
 
